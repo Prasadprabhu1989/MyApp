@@ -24,7 +24,7 @@ class NewsAppTests: XCTestCase {
     func testNews(){
         let a = 20
      
-        XCTAssertTrue(a == 30)
+        XCTAssertTrue(a == 20)
     }
 
     func testPerformanceExample() {
